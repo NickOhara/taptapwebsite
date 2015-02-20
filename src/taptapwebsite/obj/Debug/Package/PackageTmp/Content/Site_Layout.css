@@ -1,0 +1,326 @@
+﻿body 
+{
+    margin: 0px auto;
+    text-align: center;
+    background: url(Images/background-image.gif) repeat scroll;
+    font-family: 'Press Start 2P', cursive;
+}
+h2 
+{
+    padding-top:5px;
+	font-size: 100%;
+	font-family: 'Press Start 2P', cursive;
+}
+h3
+{
+    font-family: 'Press Start 2P', Cursive;
+    color:Black;
+}
+
+#content
+{
+    margin: 0px auto;
+    height: 800px;
+    background-color:Black;
+}
+#content #footer
+{
+    margin: 0px auto;
+    height: 650px;
+    background:url(Images/footer-image.png) repeat-x scroll bottom;
+}
+#content .gradient-top
+{
+    background:url(images/universal-gradient.png) repeat-x scroll left top;
+    margin: 0px auto;
+}
+#content .gradient-top .gradient-bottom
+{
+    height:530px;
+    margin: 0px auto;
+    width:100%;
+    background:url(images/background-honey.png) no-repeat scroll center;
+   
+}
+.wrapper
+{
+     width:1200px;
+     margin: 0px auto;    
+}
+#content .gradient-top .gradient-bottom #app-images
+{
+    float:left;
+    width:550px;
+    height:100px;
+    margin-top:35em;
+    margin-left:15em;
+    position:absolute;
+}
+#content .gradient-top .gradient-bottom #app-images ul
+{
+    list-style: none;
+	margin:0; 
+}
+#content .gradient-top .gradient-bottom #app-images ul li
+{
+    display: inline;
+	width: 138px;
+	height:55px;
+    list-style:none;
+    margin-right:20;
+    position:relative;
+    padding-right:0;
+}
+#content .gradient-top .gradient-bottom #app-images ul li a
+{
+    
+}
+#content .gradient-top .gradient-bottom #app-images ul li img:hover
+{
+    background: url(images/universal-gradient.png) repeat-x scroll left top;
+}
+#content .gradient-top .gradient-bottom #app-images ul li a:hover
+{
+    
+}
+#content .gradient-top .gradient-bottom #app-info
+{
+    float:right;
+    height:425px;
+    margin-top:50px;
+    margin-right:55px;
+}
+#content .gradient-top .gradient-bottom #app-picture-left
+{
+    float:left;
+    margin-top:50px;
+    margin-left:10em;
+}
+#content-page
+{
+    float:left;
+    margin-left:5em;
+    margin-top:55px;
+    width:820px;
+    height:200px;
+    background-color:#232323;
+}
+#content-page .header
+{
+     background: #232323 url(images/universal-gradient.png) repeat-x scroll left top;
+     height:53px;
+    -webkit-border-top-left-radius: 15px;
+	-khtml-border-radius-topleft: 15px;	
+	-moz-border-radius-topleft: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom:1px solid black;
+}
+#content-page .header h2
+{
+    clear:both;
+    margin:0px;
+    padding-left:15px; 
+    padding-top:15px;
+    text-align:left; 
+    color:White;
+}
+#content-page .footer
+{
+    background: #232323 url(images/universal-gradient.png) repeat-x scroll left bottom;
+    height:200px;
+    -webkit-border-top-left-radius: 15px;
+	-khtml-border-radius-topleft: 15px;	
+	-moz-border-radius-topleft: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+#content .gradient-top .gradient-bottom #content-sidepage
+{
+    float:right;
+    margin-right:1em;
+    margin-left:55em;
+    margin-top:55px;
+    position:absolute;
+    width:300px;
+    height:400px;
+}
+#content .gradient-top .gradient-bottom #content-sidepage .header
+{
+    background: #232323 url(images/universal-gradient.png) repeat-x scroll left top;
+    height:53px;
+    -webkit-border-top-left-radius: 15px;
+	-khtml-border-radius-topleft: 15px;	
+	-moz-border-radius-topleft: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom:1px solid black;
+}
+#content .gradient-top .gradient-bottom #content-sidepage .header h2
+{
+    clear:both;
+    margin:0px;
+    padding-top:15px;
+    color:White;   
+}
+#content .gradient-top .gradient-bottom #content-sidepage .footer
+{
+    background: #232323 url(images/universal-gradient.png) repeat-x scroll left bottom;
+    height:400px;
+    -webkit-border-top-left-radius: 15px;
+	-khtml-border-radius-topleft: 15px;	
+	-moz-border-radius-topleft: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+
+}
+#header
+{
+    margin: 0px auto;
+    height: 55px;
+    background: #232323 url(images/universal-gradient.png) repeat-x scroll left top;
+}
+#header .logo
+{
+    float:left;
+    text-align:center;
+    height:40px;
+    width:250px;
+    border:2px solid white;
+    margin-left:25px;
+    margin-top:5px;
+}
+
+#header .menu 
+{
+    float:right;	
+	margin: 0 auto; padding: 0;
+	height:57px;
+}
+#header .menu ul {
+	list-style: none;
+	margin:0; 
+	padding-right:100px;
+}
+#header .menu ul li 
+{
+	display: inline;
+	width: 138px;
+	height:55px;
+	float:right;
+    list-style:none;
+    margin-left:0;
+    position:relative;
+    padding-right: 0;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+#header .menu ul li a 
+{
+    color:White;
+    margin-top:15px;
+	display: block;
+	text-decoration: none;
+}
+
+#header .menu ul li a:hover {
+	color: #D4E59F;	
+	border-bottom:2px solid white;
+	width:138px;
+	height:35px;
+}
+#header .menu ul li.selected a {	
+	color: #D4E59F;	
+	border-bottom:2px solid white;
+	width:138px;
+	height:35px;
+}
+#footer
+{
+    position: relative;
+    height:155px;
+    background: #232323 url(images/universal-gradient.png) repeat-x scroll left top;
+}
+
+#footer #company
+{
+    width:140px;
+    float:left;
+    margin: 25px 0px 0px;
+    text-align:left;
+}
+#footer #company a
+{
+    color: rgb(119,119,119);
+    font-family: Arial,sans-serif;
+    text-decoration:none;
+    font-size:11pt;
+}
+#footer #learn
+{
+    width:140px;
+    float:left;
+    margin: 25px 0px 0px;
+    text-align:left;
+}
+#footer #learn a
+{
+    color: rgb(119,119,119);
+    font-family: Arial,sans-serif;
+    text-decoration:none;
+    font-size:11pt;
+}  
+#footer #connect
+{
+    width:140px;
+    float:left;
+    margin: 25px 0px 0px;
+    text-align:left;
+}
+#footer #connect a
+{
+    color: rgb(119,119,119);
+    font-family: Arial,sans-serif;
+    text-decoration:none;
+    font-size:11pt;
+}  
+#footer #copy
+{
+    float:right;
+    margin:35px 0px 0px;
+    text-align:right;
+}
+#footer #copy #logo
+{
+    width:229px;
+    height:40px;
+    float:right;
+    margin:0px 0px 8px;
+}
+#footer #copy #text
+{
+    clear:right;
+    color:rgb(43,43,43);
+    font-size:8pt;
+    line-height:15px;
+}
+#footer ul
+{
+    text-decoration:none;
+    list-style:none;
+}
+#footer ul li
+{
+    text-decoration:none;
+    line-height: 18pt;
+    list-style:none;
+    padding:0px;
+}
+#footer h3
+{
+    font-family: Arial,sans-serif;
+    color: rgb(211,211,211);
+    font-weight:bold;
+    font-size:13pt;
+    margin:0px 0px 10px;
+}

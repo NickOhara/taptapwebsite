@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://ftp-003.websoon.com:21/www" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="Triggyy" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZsL+EJ1jFE2yrp9nGIqR/AAAAAACAAAAAAADZgAAwAAAABAAAAA14Jhkt0BL/fRQ9J6ztv24AAAAAASAAACgAAAAEAAAAM8oJNTbTsuqg9gt3+z5Y5AQAAAAFyM9ShGK6rYSaSPxlFzNERQAAAB90kTp09Mc6KM85n6vr/PWqzUt/g==" SelectedForPublish="True">
+    <file relUrl="postFeedback.php" publishTime="08/02/2012 16:12:41" />
+    <file relUrl="Content/Images/background-honey.png" publishTime="08/03/2012 11:22:54" />
+    <file relUrl="bin/taptapwebsite.pdb" publishTime="08/03/2012 11:55:30" />
+    <file relUrl="Content/Images/app_store.png" publishTime="08/01/2012 15:16:08" />
+    <file relUrl="Content/Images/header-background.png" publishTime="08/01/2012 12:20:54" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="08/01/2012 10:41:05" />
+    <file relUrl="Content/Images/right.gif" publishTime="08/02/2012 12:12:23" />
+    <file relUrl="bin/taptapwebsite.dll" publishTime="08/03/2012 11:55:30" />
+    <file relUrl="Content/Images/footer_glow.png" publishTime="08/03/2012 11:43:43" />
+    <file relUrl="Content/Images/facebook-icon.jpg" publishTime="08/02/2012 14:43:38" />
+    <file relUrl="About.aspx" publishTime="08/02/2012 15:11:36" />
+    <file relUrl="Content/Images/phones.png" publishTime="08/03/2012 11:33:03" />
+    <file relUrl="Content/Images/universal-gradient.png" publishTime="08/01/2012 13:44:04" />
+    <file relUrl="Content/Images/small-header-image.png" publishTime="08/01/2012 12:45:56" />
+    <file relUrl="Web.Release.config" publishTime="08/01/2012 10:41:05" />
+    <file relUrl="Content/Images/down.gif" publishTime="08/02/2012 11:01:52" />
+    <file relUrl="Content/Images/fake-logo.png" publishTime="08/02/2012 14:53:32" />
+    <file relUrl="Scripts/tinyFeedback.js" publishTime="08/02/2012 16:12:28" />
+    <file relUrl="Content/Images/left.gif" publishTime="08/02/2012 12:12:28" />
+    <file relUrl="MasterPage.Master" publishTime="08/03/2012 09:44:28" />
+    <file relUrl="Content/Images/twitterbutton.jpg" publishTime="08/02/2012 14:40:50" />
+    <file relUrl="MasterPage.Master.cs" publishTime="08/01/2012 10:41:40" />
+    <file relUrl="Content/Images/up.gif" publishTime="08/02/2012 12:12:33" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="08/01/2012 10:43:46" />
+    <file relUrl="About.aspx.cs" publishTime="08/02/2012 13:29:19" />
+    <file relUrl="Content/Images/footer-image.png" publishTime="08/01/2012 13:34:18" />
+    <file relUrl="About.aspx.designer.cs" publishTime="08/02/2012 13:29:19" />
+    <file relUrl="Default.aspx" publishTime="08/03/2012 11:33:58" />
+    <file relUrl="taptapwebsite.csproj" publishTime="08/03/2012 11:55:29" />
+    <file relUrl="Scripts/widget.js" publishTime="08/02/2012 13:56:59" />
+    <file relUrl="MasterPage.Master.designer.cs" publishTime="08/02/2012 13:30:54" />
+    <file relUrl="Content/Images/ss_iphone_large.png" publishTime="08/01/2012 12:32:04" />
+    <file relUrl="Content/Site_Layout.css" publishTime="08/03/2012 11:52:57" />
+    <file relUrl="Content/Images/background-image.gif" publishTime="08/01/2012 12:01:16" />
+    <file relUrl="Content/tinyFeedback.css" publishTime="08/02/2012 16:12:35" />
+    <file relUrl="Content/Images/android_market.png" publishTime="08/01/2012 15:16:12" />
+    <file relUrl="Default.aspx.cs" publishTime="08/01/2012 10:43:46" />
+    <file relUrl="Content/Images/page-header.png" publishTime="08/01/2012 12:56:50" />
+    <file relUrl="Scripts/bgcarousel.js" publishTime="08/02/2012 11:00:25" />
+    <file relUrl="taptapwebsite.csproj.user" publishTime="08/03/2012 11:55:29" />
+    <file relUrl="Web.Debug.config" publishTime="08/01/2012 10:41:05" />
+    <file relUrl="Content/Images/blackberry_app_world.jpg" publishTime="08/01/2012 15:16:16" />
+    <file relUrl="Web.config" publishTime="08/01/2012 14:47:00" />
+  </publishProfile>
+</publishData>

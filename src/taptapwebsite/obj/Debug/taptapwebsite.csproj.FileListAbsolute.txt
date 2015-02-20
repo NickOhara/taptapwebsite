@@ -1,0 +1,5 @@
+c:\users\nohara\documents\visual studio 2010\Projects\taptapwebsite\taptapwebsite\bin\taptapwebsite.dll
+c:\users\nohara\documents\visual studio 2010\Projects\taptapwebsite\taptapwebsite\bin\taptapwebsite.pdb
+c:\users\nohara\documents\visual studio 2010\Projects\taptapwebsite\taptapwebsite\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nohara\documents\visual studio 2010\Projects\taptapwebsite\taptapwebsite\obj\Debug\taptapwebsite.dll
+c:\users\nohara\documents\visual studio 2010\Projects\taptapwebsite\taptapwebsite\obj\Debug\taptapwebsite.pdb
